@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CURD test with steps","get all Product Data","SUCCESS","2023-08-06T21:44:28.592+01:00[Europe/London]","0.0","1.28"
+"Product CURD test with steps","Create Product","SUCCESS","2023-08-06T21:44:29.891+01:00[Europe/London]","0.0","2.06"
+"Product CURD test with steps","GetProductName","SUCCESS","2023-08-06T21:44:31.952+01:00[Europe/London]","0.0","0.18"
+"Product CURD test with steps","UpdateProduct","SUCCESS","2023-08-06T21:44:32.134+01:00[Europe/London]","0.0","0.07"
+"Product CURD test with steps","GetHiestPrice","SUCCESS","2023-08-06T21:44:32.208+01:00[Europe/London]","0.0","0.22"
+"Product CURD test with steps","delete Product","SUCCESS","2023-08-06T21:44:32.429+01:00[Europe/London]","0.0","0.03"

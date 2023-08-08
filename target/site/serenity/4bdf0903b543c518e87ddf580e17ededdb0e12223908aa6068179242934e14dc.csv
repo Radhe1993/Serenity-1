@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CURD test with steps","UpdateProduct","FAILURE","2023-08-06T20:21:50.682+01:00[Europe/London]","0.0","0.12"
+"Product CURD test with steps","delete Product","FAILURE","2023-08-06T20:21:51.158+01:00[Europe/London]","0.0","0.01"

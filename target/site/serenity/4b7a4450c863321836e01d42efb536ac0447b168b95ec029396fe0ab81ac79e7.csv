@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store curd test","Find strores with service name","SUCCESS","2023-08-06T16:14:12.319+01:00[Europe/London]","0.0","1.45"
+"Store curd test","Find stores","SUCCESS","2023-08-06T16:14:13.789+01:00[Europe/London]","0.0","0.02"
+"Store curd test","Get all store info","SUCCESS","2023-08-06T16:14:13.813+01:00[Europe/London]","0.0","0.11"
+"Store curd test","Delete id","SUCCESS","2023-08-06T16:14:13.927+01:00[Europe/London]","0.0","0.04"
+"Store curd test","This will create a new store","SUCCESS","2023-08-06T16:20:23.717+01:00[Europe/London]","0.0","2.62"
+"Store curd test","Update the user Information and verify the updated information","SUCCESS","2023-08-06T16:21:28.514+01:00[Europe/London]","0.0","2.55"
